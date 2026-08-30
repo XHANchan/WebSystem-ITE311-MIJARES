@@ -68,6 +68,10 @@
         <p>This is my CodeIgniter + Bootstrap template.</p>
         <p>Hello, my name is Christian Mijares</p>
     </div>
+    <div class="container mt-4">
+  <h1>Welcome to my CodeIgniter site</h1>
+  <p>This is the homepage.</p>
+</div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
